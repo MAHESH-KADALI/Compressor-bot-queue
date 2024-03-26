@@ -9,11 +9,11 @@
     "env": {
         "APP_ID": {
             "description": "You api id, from my.telegram.org or @apiScrapperRoBot.",
-            "value": ""
+            "value": "4857766"
         },
         "API_HASH": {
             "description": "You api hash, from my.telegram.org or @apiScrapperRoBot.",
-            "value": ""
+            "value": "6c3c6facf5598a4b318e138f8c407028"
         },
         "BOT_TOKEN": {
             "description": "Make a bot from @BotFather, and enter it's api token here.",
@@ -21,11 +21,11 @@
         },
         "OWNER": {
             "description": "Get ur Id Of Telegram nd Paste Here.",
-            "value": ""
+            "value": "1596559467"
         },
         "THUMBNAIL": {
             "description": "Put Link of any picture.",
-            "value": "https://telegra.ph/file/75ee20ec8d8c8bba84f02.jpg",
+            "value": "https://graph.org/file/93962115d4691bf425515.jpg",
             "required": false
         },
         "FFMPEG": {
