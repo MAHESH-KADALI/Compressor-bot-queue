@@ -1,7 +1,7 @@
 ## Queue Compressor Bot (For Single Users)
 
 ### Fork Repo Then click on below button of ur fork repo.
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/MAHESH-KADALI/Compressor-bot-queue)
 
 ### Variables
 `APP_ID` `API_HASH` `BOT_TOKEN`
